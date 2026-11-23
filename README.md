@@ -10,4 +10,4 @@ To run this project, use the Live Server extension in VS Code.
 
 You can check out [the live demo here](https://davidmaksic.github.io/yakuza-site/).
 
-![main image](https://davidmaksic.vercel.app/yakuza-entire-page.webp)
+![main image](https://davidmaksic.vercel.app/yakuza/yakuza-entire-page.webp)
